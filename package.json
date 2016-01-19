@@ -1,0 +1,16 @@
+{
+  "title": "Optimizely Toggle Firefox",
+  "name": "optimizely-toggle-firefox",
+  "version": "1.0.0",
+  "description": "This extension disables Optimizely for the tab you are browsing, via a switch.",
+  "main": "index.js",
+  "author": "Federico Maffei",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
