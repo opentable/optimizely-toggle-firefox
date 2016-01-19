@@ -6,6 +6,9 @@ var text_entry = require("sdk/panel").Panel({
   contentScriptFile: data.url("popup.js"),
   contentScriptOptions: {
     url: tabs.activeTab.url
+  },
+  onMessage: function(addonMessage) {
+    tabs.activeTab.url = addonMessage.url;
   }
 });
 
