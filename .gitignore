@@ -6,3 +6,7 @@ node_modules
 
 # Optional npm cache directory
 .npm
+
+# Ignore any zip or xpi files
+*.zip
+*.xpi

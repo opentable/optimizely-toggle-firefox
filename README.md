@@ -1,2 +1,4 @@
 #Optimizely Toggle Firefox
-This extension allows to disable Optimizely for the current page
+
+This extension disables Optimizely for the tab you are browsing, via a switch.
+
