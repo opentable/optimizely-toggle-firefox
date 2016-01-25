@@ -16,7 +16,7 @@ Optimizely is enabled by default and can be disabled by clicking the switch. An 
 
 ##How do I contribute to this project?
 
-This is an Open Source project, and all feedback is both welcome and pull requests encouraged.
+This is an Open Source project, and all feedback is welcome and pull requests encouraged.
 Basic instructions to run a jpm project like this one [can be found here](https://developer.mozilla.org/en-US/Add-ons/SDK/Tutorials/Getting_Started_%28jpm%29).
 To run Optimizely Toggle Firefox:
 
