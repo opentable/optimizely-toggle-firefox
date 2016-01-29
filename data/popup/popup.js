@@ -40,6 +40,10 @@ function setSwitchValue(url, callback) {
     callback();
 }
 
+function removeAlert() {
+
+}
+
 document.getElementById("myonoffswitch").addEventListener("click", editUrl);
 
 self.on("message", function(addonMessage) {

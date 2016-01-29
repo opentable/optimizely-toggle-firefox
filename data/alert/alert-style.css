@@ -1,0 +1,12 @@
+.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    background-color: white;
+    z-index: 9999;
+}
+
+.elem-red {
+    border: solid #D62430 3px;
+}

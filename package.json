@@ -1,7 +1,7 @@
 {
   "title": "Optimizely Toggle",
   "name": "optimizely-toggle",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "This extension disables Optimizely for the tab you are browsing, via a switch.",
   "main": "index.js",
   "author": "Federico Maffei",

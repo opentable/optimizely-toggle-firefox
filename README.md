@@ -35,3 +35,7 @@ Please use the 'issues' section of this repository to submit bug, requests for f
     - initial release
 - **v1.0.1** (2016-01-20)
     - basic UI changes
+- **v1.0.2** (2016-01-28)
+    - moved popup to top left
+- **v1.0.3** (2016-01-29)
+    - moved popup to top left    
