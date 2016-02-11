@@ -52,11 +52,7 @@ function showAlert(tab) {
     tab.on('ready', function() {
         if(tab.url.indexOf(OPTIMIZELY_QUERY) > -1) {
             var worker = tab.attach({
-                contentScriptFile: data.url("alert/activeAlert.js"),
-                contentStyleFile: data.url("alert/alert-style.css"),
-                contentScriptOptions: {
-                    html: data.load("alert/alert.html")
-                }
+                contentScriptFile: data.url("alert/activeAlert.js")
             });
             workers.push(worker);
         } else {
