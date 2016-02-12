@@ -38,4 +38,6 @@ Please use the 'issues' section of this repository to submit bugs, requests for 
 - **v1.0.2** (2016-01-28)
     - moved popup to top left
 - **v1.0.3** (2016-02-11)
-    - added visual hint that Optimizely is turned off on a given page
+    - added visual hint that Optimizely is turned off on a given page (REJECTED)
+- **v1.0.4** (2016-02-12)
+    - fix for 1.0.3, not using insertAdjacentHTML but safer methods.
