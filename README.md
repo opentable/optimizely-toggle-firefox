@@ -6,7 +6,7 @@ A Firefox add-on which can disable Optimizely for your current tab.
 
 ##How do I use it?
 
-Once the [add-on](https://addons.mozilla.org/en-US/firefox/addon/optimizely-toggle/) is installed on your browser, you can toggle a simple switch to disable (OFF) or enable (ON) Optimizely experiments on the current page (see screenshots).
+Once the [add-on](https://addons.mozilla.org/en-US/firefox/addon/optimizely-toggle/) is installed on your browser, you can toggle a simple switch to disable or enable Optimizely experiments on the current page (see screenshots).
 
 ![enabled](http://i.imgur.com/jX1RNjhl.png)
 
