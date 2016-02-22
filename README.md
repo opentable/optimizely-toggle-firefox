@@ -8,11 +8,11 @@ A Firefox add-on which can disable Optimizely for your current tab.
 
 Once the [add-on](https://addons.mozilla.org/en-US/firefox/addon/optimizely-toggle/) is installed on your browser, you can toggle a simple switch to disable or enable Optimizely experiments on the current page (see screenshots).
 
-![enabled](http://i.imgur.com/jX1RNjhl.png)
+![enabled](/screenshots/plugin-screenshot-enabled.png?raw=true)
 
 Optimizely is enabled by default and can be disabled by clicking the switch. An example of this is shown in the screenshot below:
 
-![disabled](http://i.imgur.com/Q2IhDbyl.png)
+![disabled](/screenshots/plugin-screenshot-disabled.png?raw=true)
 
 ##How do I contribute to this project?
 
@@ -21,7 +21,7 @@ Basic instructions to run a jpm project like this one [can be found here](https:
 To run Optimizely Toggle Firefox:
 
 ```
-git clone https://github.com/federicomaffei/optimizely-toggle-firefox.git
+git clone https://github.com/opentable/optimizely-toggle-firefox.git
 cd optimizely-toggle-firefox
 npm install jpm -g
 jpm run
